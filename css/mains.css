@@ -1,0 +1,47 @@
+/*====================header========================*/
+
+#header{
+background-image:url(../images/payments-banner-graphic.png);
+position: relative;
+width:1317px;
+margin-left:-21px;
+margin-top:-8px;
+height: 550;
+ }
+
+#buttonHeader{
+  position: relative;
+  margin-left: 33%;
+  margin-top: 0px;
+  width: 400px;
+  height: 50px;
+}
+
+.iconHeader{
+  position: relative;
+}
+
+.pHd{
+
+  position: relative;
+  margin-top: 0;
+  margin-left: 370px;
+padding-top: 235px;
+}
+
+
+
+.Get{
+  margin-left: 456px;
+}
+
+.buttonLogSign{
+   margin-left: 1120px;
+   margin-top: 0px;
+}
+
+/*====================header========================*/
+
+.section1{
+  display: inline-block;
+}
